@@ -47,23 +47,7 @@ Once running, the CLI will prompt you to chat with the AutoStream assistant:
 
 **Example Session:**
 ```
-You: Hey there!
-Assistant: Hey! Welcome to AutoStream ...
 
-You: What plans do you offer?
-Assistant: AutoStream has two plans: Basic at $29/month...
-
-You: I'd like to get started with Pro!
-Assistant: Awesome! To get you set up, what's your name?
-
-You: I'm Sarah
-Assistant: Nice to meet you, Sarah! What's your email?
-
-You: sarah@example.com
-Assistant: Perfect! How did you hear about AutoStream?
-
-You: Instagram
-✅ Lead captured: Sarah, sarah@example.com, Instagram
 ```
 
 ---
@@ -179,9 +163,9 @@ social-to-lead-agent/
 | Component | Technology |
 |-----------|-----------|
 | Language | Python 3.9+ |
-| LLM | GPT-4o-mini (OpenAI) |
+| LLM | gemini-robotics-er-1.5-preview |
 | Workflow | LangGraph |
 | RAG Framework | LangChain |
 | Vector DB | FAISS (faiss-cpu) |
-| Embeddings | OpenAI text-embedding-3-small |
+| Embeddings | gemini-embedding-001 |
 | Config | python-dotenv |
