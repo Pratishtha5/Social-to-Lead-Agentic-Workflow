@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pricing_basic",
+    "category": "pricing",
+    "title": "Basic Plan",
+    "content": "AutoStream's Basic plan is priced at $29 per month. It includes support for up to 10 videos and offers 720p video quality. This plan is ideal for individuals or small creators just getting started with video streaming."
+  },
+  {
+    "id": "pricing_pro",
+    "category": "pricing",
+    "title": "Pro Plan",
+    "content": "AutoStream's Pro plan is priced at $79 per month. It includes unlimited video uploads and supports up to 4K resolution. The Pro plan also includes AI-powered automatic captions, making it perfect for professional content creators and businesses."
+  },
+  {
+    "id": "pricing_comparison",
+    "category": "pricing",
+    "title": "Plan Comparison",
+    "content": "AutoStream offers two plans: Basic at $29/month (10 videos, 720p) and Pro at $79/month (unlimited videos, 4K, AI captions). The Pro plan is recommended for teams and professionals who need advanced features and higher quality output."
+  },
+  {
+    "id": "policy_refund",
+    "category": "policy",
+    "title": "Refund Policy",
+    "content": "AutoStream has a strict no-refund policy after 7 days from the date of purchase. Customers who are not satisfied with their subscription should request a refund within the first 7 days. After the 7-day window, refunds are not available under any circumstances."
+  },
+  {
+    "id": "policy_support",
+    "category": "policy",
+    "title": "Customer Support Policy",
+    "content": "AutoStream offers 24/7 customer support exclusively for Pro plan subscribers. Basic plan users have access to standard support during business hours. For urgent issues, Pro plan users can reach the support team at any time via chat or email."
+  },
+  {
+    "id": "feature_ai_captions",
+    "category": "features",
+    "title": "AI Captions",
+    "content": "AutoStream's AI caption feature automatically generates accurate subtitles for your videos using advanced speech recognition. This feature is available exclusively on the Pro plan and supports multiple languages. AI captions improve accessibility and boost engagement significantly."
+  },
+  {
+    "id": "feature_streaming",
+    "category": "features",
+    "title": "Streaming Quality",
+    "content": "AutoStream supports adaptive bitrate streaming to ensure smooth playback across all devices and network conditions. Basic plan users get up to 720p quality, while Pro users enjoy crisp 4K Ultra HD streaming. The platform auto-adjusts quality based on viewer bandwidth."
+  },
+  {
+    "id": "about_autostream",
+    "category": "general",
+    "title": "About AutoStream",
+    "content": "AutoStream is a powerful SaaS video streaming and management platform designed for content creators, educators, and businesses. It provides an easy-to-use interface for uploading, managing, and distributing video content across multiple platforms simultaneously."
+  },
+  {
+    "id": "onboarding",
+    "category": "general",
+    "title": "Getting Started",
+    "content": "Getting started with AutoStream is simple. After signing up, you can immediately upload videos, configure your streaming settings, and share content. The platform offers step-by-step onboarding guides, video tutorials, and a helpful knowledge base to get you up and running quickly."
+  },
+  {
+    "id": "integrations",
+    "category": "features",
+    "title": "Platform Integrations",
+    "content": "AutoStream integrates seamlessly with YouTube, Instagram, TikTok, LinkedIn, and Facebook. You can schedule and auto-publish videos to multiple social platforms from a single dashboard. API access is available on the Pro plan for custom integrations."
+  }
+]
