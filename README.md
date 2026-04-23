@@ -46,11 +46,11 @@ Once running, the CLI will prompt you to chat with the AutoStream assistant:
 - Say **"I want to sign up"** → triggers the lead capture flow (name → email → platform)
 
 **Example Session:**
-```
+<img width="1302" height="902" alt="image" src="https://github.com/user-attachments/assets/003d3db5-722f-423d-bd71-59f855859099" />
 
-```
 
----
+
+
 
 ## 🏗️ Architecture Explanation
 
